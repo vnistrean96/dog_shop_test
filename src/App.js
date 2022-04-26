@@ -4,7 +4,6 @@ import EditDogForm from './forms/EditDogForm'
 import DogTable from './tables/DogTable'
 
 const App = () => {
-	// Data
 	const dogsData = [
 		{ id: 1, breed: 'Akita', nick: 'As', price: "100", url: "https://www.dogtime.com/assets/uploads/2011/01/file_22906_akita-300x189.jpg" },
 		{ id: 2, breed: 'Alaskan', nick: 'Bobo', price: "200", url: "https://www.dogtime.com/assets/uploads/2020/02/akita-pit-mixed-dog-breed-pictures-COVER-650x368.jpg"},
